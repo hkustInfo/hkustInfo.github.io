@@ -1,7 +1,7 @@
 {
   "homepage": "https://hkustinfo.github.io/",
   "name": "my-app",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^2.1.1",
